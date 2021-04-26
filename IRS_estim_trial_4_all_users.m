@@ -9,7 +9,7 @@ K=500;
 M=20;
 sub_carriers=500;
 %% Sub
-for user_no=46:50
+for user_no=1:50
     phi_1=ones(4096,1); %initialization of phases
     R_achieved_k_1(user_no)=0;
     R_achieved_k(user_no)=0;
