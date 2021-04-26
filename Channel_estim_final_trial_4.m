@@ -1,4 +1,3 @@
-% O.N.N % S.K.P
 tic;
 clear all;
 %clc;
